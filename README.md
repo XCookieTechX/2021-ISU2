@@ -1,5 +1,5 @@
 # 2021-ISU2
-Anoms for ISU2 Cyber Defense Competition in 2021
+Anomalies (challenges) for ISU2 Cyber Defense Competition in 2021
 
 1. Description.md is the description of the challenge
 
